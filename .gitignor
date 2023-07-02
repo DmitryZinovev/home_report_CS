@@ -1,0 +1,5 @@
+ .vscode/
+Home_report.csproj
+Program.cs
+bin/
+obj/
